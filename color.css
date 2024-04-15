@@ -12,19 +12,23 @@
 }
 .col,.col1,.col2,.col3,.col4,.col5,.col6,.col7,.col8,.col9 {
     text-align: center;
-    color: bisque;
+    color: white;
+    font-size:10px;
 }
 .col10,.col11,.col12,.col13,.col14,.col15,.col16,.col17,.col18 {
     text-align: center;
     color: white;
+     font-size:10px;
 }
 .col19,.col20,.col21,.col22,.col23,.col24,.col25,.col26,.col27,.col28 {
     text-align: center;
     color: white;
+     font-size:10px;
 }
 .col29,.col30,.col31,.col32,.col33,.col34 {
     text-align: center;
     color: white;
+     font-size:10px;
 }
 .col{
     width: 50%;
